@@ -2,7 +2,7 @@
 
 🚀 **Deep Learning | Machine Learning | Computer Vision**  
 
-I am a passionate Deep Learning and Machine Learning enthusiast, actively working on real-world AI applications. I enjoy solving complex problems with PyTorch, and Scikit-learn.  
+I am a passionate Deep Learning and Machine Learning enthusiast, actively working on real-world AI applications. I enjoy solving complex problems with PyTorch and Scikit-learn.  
 
 ---
 ## 🔥 About Me  
