@@ -5,7 +5,7 @@
 I am a passionate Deep Learning and Machine Learning enthusiast, actively working on real-world AI applications. I enjoy solving complex problems with PyTorch and Scikit-learn. 
 ---
 ## 🔥 About Me  
-- 🎯 Deep learning practitioner with expertise in **CNNs, RNNs, Transformers, and Object Detection**.  
+- 🎯 Ex-NIT Trichy **ML** Research Intern.  
 - 🏆 Active on **Kaggle**, solving real-world dataset problems.  
-- 💻 Experienced in building **end-to-end machine learning applications**.  
+- 💻 Deep learning practitioner with expertise in **CNNs, RNNs, Transformers, and Object Detection**  
 - 📚 Passionate about **research, AI applications, and model deployment**.  
